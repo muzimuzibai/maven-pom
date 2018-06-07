@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>mm-pom</groupId>
+  <artifactId>mm-pom</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180607021220</lastUpdated>
+  </versioning>
+</metadata>
